@@ -4,18 +4,18 @@
 My name is Ahmed Hammad and I am a Data Scientist, Quantitative Researcher and Program Evaluator. 
 I have a PhD in Applied Machine Learning and Econometrics. I have been working on data for over 10 years in both the academic and private sectors. 
 
-**Get in Touch:**
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahmedt-h/)
-&nbsp;
 
-
-**Fields of interest:**
+** My fields of interest:**
 - [ ] Program and Policy Evaluation
 - [ ] Econometrics
 - [ ] Machine Learning
 - [ ] Time Series
 
 
+
+**Get in Touch with me:**
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahmedt-h/)
+&nbsp;
 
 
 ## &#x270d;Papers & Blog
