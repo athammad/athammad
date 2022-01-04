@@ -5,12 +5,13 @@ My name is Ahmed Hammad and I am a Data Scientist, Quantitative Researcher and P
 I have a PhD in Applied Machine Learning and Econometrics. I have been working on data for over 10 years in both the academic and private sectors. 
 
 
-** My fields of interest:**
+**My fields of interest:**
 - [ ] Program and Policy Evaluation
 - [ ] Econometrics
 - [ ] Machine Learning
 - [ ] Time Series
-
+- [ ] Environmental Analysis
+- [ ] Sensor & Satellite Data
 
 
 **Get in Touch with me:**
