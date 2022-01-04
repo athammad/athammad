@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="./logos/bye-smile.gif" width="30px">
 
-My name is Ahmed Hammad and I am a Data Scientist, Quantitative Researcher and Program Evaluator. 
+My name is Ahmed and I am a Data Scientist, Quantitative Researcher and Program Evaluator. 
 I have a PhD in Applied Machine Learning and Econometrics. I have been working on data for over 10 years in both the academic and private sectors. 
 
 
