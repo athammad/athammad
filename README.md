@@ -1,21 +1,49 @@
-### Hi there 👋
+
+# Hello, folks! <img src="./logos/bye-smile.gif" width="30px">
+
+My name is Ahmed Hammad and I am a Data Scientist, Quantitative Researcher and Program Evaluator. 
+I have a PhD in Applied Machine Learning and Econometrics. I have been working on data for over 10 years in both the academic and private sectors. 
+
+**Get in Touch:**
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahmedt-h/)
+&nbsp;
 
 
+**Fields of interest:**
+- [ ] Program and Policy Evaluation
+- [ ] Econometrics
+- [ ] Machine Learning
+- [ ] Time Series
+
+
+
+
+## &#x270d;Papers & Blog
+
+You can find a list of my puplications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [Decatab.com](https://www.decatab.com).
+
+
+## Languages and Tools
+<p float="left">
+<img src="./logos/rstudio.png" width="8%" />
+<img src="./logos/python_logo.png" width="8%" />
+<img src="./logos/docker.png" width="8%" />
+<img src="./logos/do.png" width="8%" /> 
+<img src="./logos/gcp.png" width="12%" />   
+<img src="./logos/dt.png" width="8%" />
+<img src="./logos/ggplot2.png" width="8%" />
+<img src="./logos/reticulated_python.png" width="10%" />
+<img src="./logos/grf_logo.png" width="8%" />
+<img src="./logos/lubridate.png" width="8%" />
+<img src="./logos/rf.png" width="8%" />
+</p>
 
 
 ---
-![R](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)
-[![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-[![docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png][1]
-[![Rstudio](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)][3]
-[![caret](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)][3]
-[![data.table](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)][3]
-[![reticulate](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)][3]
-[![ggplot2](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)][3]
 
 
----
 <!--**athammad/athammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athammad&layout=compact)](https://github.com/athammad/github-readme-stats)
 
 Here are some ideas to get you started:
 
