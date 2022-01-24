@@ -27,16 +27,16 @@ You can find a list of my puplications on [Google scholar](https://scholar.googl
 ## Languages and Tools
 <p float="left">
 <img src="./logos/rstudio.png" width="8%" />
-<img src="./logos/python_logo.png" width="8%" />
+<img src="./logos/python_logo.png" width="7%" />
 <img src="./logos/docker.png" width="8%" />
-<img src="./logos/do.png" width="8%" /> 
+<img src="./logos/do.png" width="7%" /> 
 <img src="./logos/gcp.png" width="12%" />   
 <img src="./logos/dt.png" width="8%" />
+<img src="./logos/lubridate.png" width="8%" />
 <img src="./logos/ggplot2.png" width="8%" />
 <img src="./logos/reticulated_python.png" width="10%" />
 <img src="./logos/grf_logo.png" width="8%" />
-<img src="./logos/lubridate.png" width="8%" />
-<img src="./logos/syntCF.png" width="8%" />
+<img src="./logos/logoSCF.png" width="9%" />
 </p>
 
 
