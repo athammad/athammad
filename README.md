@@ -21,7 +21,7 @@ I am also the creator and maintainer of the open-source R library [syntCF](https
 
 ## &#x270d;Papers & Blog
 
-You can find a list of my puplications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [Decatab.com](https://www.decatab.com).
+You can find a list of my publications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [Decatab.com](https://www.decatab.com).
 
 
 ## Languages and Tools
