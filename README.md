@@ -32,10 +32,10 @@ You can find a list of my publications on [Google scholar](https://scholar.googl
 <img src="./logos/do.png" width="7%" /> 
 <img src="./logos/gcp.png" width="12%" />   
 <img src="./logos/dt.png" width="8%" />
-<img src="./logos/lubridate.png" width="8%" />
+<img src="./logos/river.svg" width="8%" />
 <img src="./logos/ggplot2.png" width="8%" />
 <img src="./logos/reticulated_python.png" width="10%" />
-<img src="./logos/grf_logo.png" width="8%" />
+<img src="./logos/redis.png" width="8%" />
 <img src="./logos/logoSCF.png" width="9%" />
 </p>
 
