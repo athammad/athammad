@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="./logos/bye-smile.gif" width=5%>
+# Hello, folks! <img src="./logos/bye-smile.gif" width=20%>
 
 My name is Ahmed and I am a Data Scientist, Quantitative Researcher and Program Evaluator. 
 I have a PhD in Applied Machine Learning and Econometrics and I have been working on data for over 10 years in both the academic and private sectors. 
