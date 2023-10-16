@@ -20,7 +20,7 @@ I have a PhD in Applied Machine Learning and Econometrics and I have been workin
 
 ## &#x270d;Papers & Blog
 
-You can find a list of my publications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [Decatab.com](https://www.decatab.com).
+You can find a list of my publications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [athsas.com](https://www.athsas.com).
 
 
 ## Languages and Tools
