@@ -3,7 +3,6 @@
 
 My name is Ahmed and I am a Data Scientist, Quantitative Researcher and Lecturer. 
 I have a PhD in Applied Machine Learning and Econometrics and I have been working on data for over 10 years in both the academic and private sectors. 
-I am also the creator and maintainer of the open-source R library [syntCF](https://github.com/athammad/syntCF), which offers a collection of tools to perform rigorous causal inference with Machine Learning and time-series data.
 
 **My fields of interest:**
 - [ ] Program and Policy Evaluation
