@@ -1,64 +1,28 @@
 
 # Hello, folks! <img src="./logos/bye-smile.gif" width=5%>
 
-My name is Ahmed and I am a Data Scientist, Quantitative Researcher and Lecturer. 
-I have a PhD in Applied Machine Learning and Econometrics and I have been working on data for over 10 years in both the academic and private sectors. 
+Hello, my name is Ahmed, and I am a Data Scientist, Quantitative Researcher, and Lecturer. I hold a **PhD in Causal Machine Learning** and over 10 years of [experience](https://athsas.com/cv/cv.html) working with data in both academia and the private sector. I possess extensive knowledge of programming languages such as R and Python, which I use daily to conduct my research and analysis.
 
-**My fields of interest:**
-- [ ] Program and Policy Evaluation
-- [ ] Econometrics
-- [ ] Incremental Machine Learning
-- [ ] Time Series
-- [ ] Environmental Analysis
-- [ ] Sensor & Satellite Data
+As a passionate learner, I always strive to stay up-to-date with the latest developments in Machine Learning. That's why I'm still involved in [research](https://athsas.com/research.html) and regularly [publish](https://athsas.com/papers.html) my analysis on a variety of topics, including **Machine Learning and Econometrics** applied to environmental analysis and other fields.
 
+In the last few years, I have been focusing mainly on **Environmental Data Modeling, Climate Change and Extreme Event Analysis** with a strong emphasis on probabilistic models to assist both [private and public sector organizations](https://athsas.com/solutions.html).
 
-**Get in Touch with me:**
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahmedt-h/)
-&nbsp;
+One of the most fulfilling aspects of my career is sharing my knowledge of **statistics and machine learning** with others. [**Teaching**](https://athsas.com/teaching.html) the younger generation and professionals how to "get things done" and handle real-world data problems is something that brings me so much joy. It's an opportunity for me to share my years of experience in the field and help others succeed.
 
+# My fields of interest
+
+-   Machine Learning
+-   Econometrics
+-   Extreme Events Analysis
+-   Causal Inference
+
+-   Time Series
+-   Probabilistic Models
+-   Environmental Analysis
+-   Sensor & Satellite Data
 
 ## &#x270d;Papers & Blog
 
 You can find a list of my publications on [Google scholar](https://scholar.google.com/citations?user=uE11zZAAAAAJ&hl=en). Apart from coding and writing, I also maintain a blog - you can find my articles on my website [athsas.com](https://www.athsas.com).
 
 
-## Languages and Tools
-<p float="left">
-
-<img src="./logos/rstudio.png" width="7%"/> <img src="./logos/python_logo.png" width="7%"/> <img src="./logos/docker.png" width="8%"/> <img src="./logos/do.png" width="6%"/> <img src="./logos/gcp.png" width="12%"/>
-<img src="./logos/dt.png" width="8%"/> <img src="./logos/ggplot2.png" width="8%"/> <img src="./logos/reticulated_python.png" width="10%"/> <img src="./logos/logoSCF.png" width="9%"/> <img src="./logos/redis.png" width="8%"/> <img
-src="./logos/scikit-learn.png" width="8%"/> <img
-src="./logos/FastAPI_logo.png" width="8%"/> <img
-src="./logos/sql.png" width="8%"/> <img
-src="./logos/keras.png" width="8%"/> <img
-src="./logos/sktime.png" width="8%"/> <img
-src="./logos/h2o.png" width="8%"/> <img
-src="./logos/river.svg" width="12%"/> <img
-src="./logos/gee.png" width="12%"/> <img
-src="./logos/matplot.png" width="12%"/> <img
-src="./logos/seaborn.svg" width="12%"/> <img
-src="./logos/streamlit.png" width="12%"/> <img
-src="./logos/shiny.png" width="12%"/> <img
-src="./logos/quarto.png" width="12%"/> <img
-src="./logos/statsmodels.svg" width="12%"/>
-</p>
-
-
----
-
-
-<!--**athammad/athammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athammad&layout=compact)](https://github.com/athammad/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
